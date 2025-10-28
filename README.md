@@ -209,8 +209,8 @@ For major changes, please open an issue first to discuss what you’d like to ch
 ## 📧 Contact
 
 **Author:** Aakanksha Patil  
-**Email:** yourname@example.com  
-**GitHub:** [github.com/your-username](https://github.com/your-username)
+**Email:** aakankshapatil721@gmail.com 
+**GitHub:** [github.com/your-username](https://github.com/Aakanksha0014)
 
 ---
 
