@@ -210,7 +210,7 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 **Author:** Aakanksha Patil  
 **Email:** aakankshapatil721@gmail.com 
-**GitHub:** [github.com/your-username](https://github.com/Aakanksha0014)
+**GitHub:** [github.com/Aakanksha0014](https://github.com/Aakanksha0014)
 
 ---
 
